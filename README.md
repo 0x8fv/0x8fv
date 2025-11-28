@@ -44,11 +44,4 @@
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x8fv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0x8fv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
 [![](https://visitcount.itsvg.in/api?id=0x8fv&icon=0&color=0)](https://visitcount.itsvg.in)
